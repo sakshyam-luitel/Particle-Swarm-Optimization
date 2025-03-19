@@ -1,1 +1,4 @@
 *.venv
+*.csv
+trained_model.joblib
+scaler.joblib
